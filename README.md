@@ -1,5 +1,5 @@
 # 👾 RafaelBP02
-**`Software Engineer Student`**
+**`Software Engineer`**
 
 I am a proactive, kind, responsible and resilient person. My biggest interests are to achieve more experience in software development and teamwork. I am also looking forward to my self-development. I plan to graduate in *software engineering from UnB* in July 2024 and I'm **looking for my first job**. During my experiences at university and internships I acquired knowledge in programming languages ​​and software processes/frameworks, such as Scrum and XP. I really like the project management part, communication between the client and the development team and artificial intelligence. I also find it interesting to program both front and back.
 
